@@ -1,0 +1,6 @@
+make,year,mileage,engine_size,fuel_type,sale_price
+Toyota,2015,60000,1.8,Petrol,12000
+Honda,2018,30000,2.0,Diesel,15000
+Ford,2017,45000,1.5,Hybrid,14000
+BMW,2016,55000,2.5,Petrol,16000
+Audi,2019,25000,2.0,Electric,20000
