@@ -1,4 +1,0 @@
-pandas
-scikit-learn
-azureml-sdk
-joblib
